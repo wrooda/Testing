@@ -1,1 +1,5 @@
-bug report
+Name/ID
+Payback steps
+Severity
+Priority
+
